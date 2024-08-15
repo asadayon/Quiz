@@ -1,4 +1,1 @@
-nltk
-scipy
-heapq
-gensim
+matplotlib
