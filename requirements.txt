@@ -1,0 +1,4 @@
+nltk
+scipy
+heapq
+gensim
